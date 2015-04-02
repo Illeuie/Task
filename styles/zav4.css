@@ -56,7 +56,6 @@ li{
 	padding-left: 60px;
 }
 .block2{
-	background-image: url('../screenshots/2.jpg');
 	 width: 285px;
 	height: 285px;
 	float: left;
@@ -122,25 +121,50 @@ li{
  .block1 span1{
 	padding: 20px 40px;
 	display: block;
-
+	color: #ffffff;
 }
 .block3 span3{
 	padding: 20px 90px;
 	display: block;
+	color: #ffffff;
 }
 .block4 span4{
 	padding: 20px 75px;
 	display: block;
+	color: #ffffff;
 }
 .block6 span6{
 	padding: 20px 60px;
 	display: block;
+	color: #ffffff;
 }
 .block7 span7{
 	padding: 20px 30px;
 	display: block;
+	color: #ffffff;
 }
 .block4 span5{
 	display: block;
 	padding: 20px 110px;
+	color: #ffffff;
+}
+.block6:hover{
+	background: #6B80DD;
+	opacity: 0.5;
+}
+.block1:hover{
+	background: #49A6CE;
+	opacity: 0.5;
+}
+.block3:hover{
+	background: #B75B6E;
+	opacity: 0.5;
+}
+.block4:hover{
+	background: #E7654E;
+	opacity: 0.5;
+}
+.block7:hover{
+	background: #C45381;
+	opacity: 0.5;
 }
