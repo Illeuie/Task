@@ -1,7 +1,6 @@
 body{
 	min-height: 800px;
 	min-width: 1200px;
-
 }
 .osn{
 	background: #F3F3F3;
@@ -30,6 +29,13 @@ h1{
 	color: #FCFCFD;
 	margin-left: 30px;
 }
+a{
+	text-decoration: none;
+	color: #ffffff;
+	text-align: center;
+}
+	
+
 ul{
 	list-style: none;
 
@@ -118,35 +124,29 @@ li{
 	position: relative;
 	bottom: 5px;
 }
- .block1 span1{
+.block1 span1{
 	padding: 20px 40px;
 	display: block;
-	color: #ffffff;
 }
 .block3 span3{
 	padding: 20px 90px;
 	display: block;
-	color: #ffffff;
 }
 .block4 span4{
 	padding: 20px 75px;
 	display: block;
-	color: #ffffff;
 }
 .block6 span6{
 	padding: 20px 60px;
 	display: block;
-	color: #ffffff;
 }
 .block7 span7{
 	padding: 20px 30px;
 	display: block;
-	color: #ffffff;
 }
 .block4 span5{
 	display: block;
 	padding: 20px 110px;
-	color: #ffffff;
 }
 .block6:hover{
 	background: #6B80DD;
